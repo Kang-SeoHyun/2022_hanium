@@ -1,7 +1,1 @@
-# 🖱참고 레퍼런스 사이트 주소🖱
-
-* 배민 : https://techblog.woowahan.com/5268/
-* 배민: https://techblog.woowahan.com/2681/
-
-* 따라하기 : https://daddyprogrammer.org/post/4077/spring-websocket-chatting/
-  * 웹소켓 따라하기 [코드](https://github.com/Kang-SeoHyun/2022_hanium/tree/main/reference_study/websocketchat)
+웹소켓 따라하기 [코드](https://github.com/Kang-SeoHyun/2022_hanium/tree/main/reference_study/websocketchat)
