@@ -4,4 +4,4 @@
 * 배민: https://techblog.woowahan.com/2681/
 
 * 따라하기 : https://daddyprogrammer.org/post/4077/spring-websocket-chatting/
-  * [코드](https://github.com/Kang-SeoHyun/2022_hanium/tree/main/reference_study/websocketchat)
+  * 웹소켓 따라하기 [코드](https://github.com/Kang-SeoHyun/2022_hanium/tree/main/reference_study/websocketchat)
