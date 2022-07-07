@@ -1,10 +1,10 @@
-package org.websocketstudy.restapi;
+package com.websocket.websocketchat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestApiApplicationTests {
+class WebsocketchatApplicationTests {
 
 	@Test
 	void contextLoads() {
