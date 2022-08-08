@@ -1,4 +1,4 @@
-package com.websocket.websocketchat.chat;
+package com.websocket.websocketchat.model;
 
 import java.util.UUID;
 
